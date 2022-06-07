@@ -4,4 +4,4 @@ Roadmap Backend Learning
   * Operator Math
     - Using Modulo
 - Go Web Framework
-  * Using Gin
+  * Using Gorm
