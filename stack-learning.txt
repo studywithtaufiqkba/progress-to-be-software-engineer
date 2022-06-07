@@ -1,0 +1,4 @@
+Stack Learning to be Software Engineer
+- Consistance to learning Back-End Stack
+- Learning to intermediate Git & Github
+- Learning Go Language Programming
