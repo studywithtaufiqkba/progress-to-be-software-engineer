@@ -3,5 +3,7 @@ Roadmap Backend Learning
   * Data Types
   * Operator Math
     - Using Modulo
+    - Using AND OR 
 - Go Web Framework
   * Using Gorm
+  * Using Gin
