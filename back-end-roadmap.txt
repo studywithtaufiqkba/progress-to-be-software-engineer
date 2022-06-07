@@ -1,0 +1,5 @@
+Roadmap Backend Learning
+- Learning Go-Basic
+  * Variable
+  * Data Types
+- Go Web Framework
