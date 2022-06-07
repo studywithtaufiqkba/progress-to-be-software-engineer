@@ -1,6 +1,7 @@
 Roadmap Backend Learning
 - Learning Go-Basic
-  * Variable
   * Data Types
   * Operator Math
+    - Using Modulo
 - Go Web Framework
+  * Using Gin
